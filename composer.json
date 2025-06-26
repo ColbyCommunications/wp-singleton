@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "name": "johnwatkins0/wp-singleton",
+  "name": "colbycommunications/wp-singleton",
   "description": "A singleton trait for use in WordPress projects",
   "authors": [
     {
