@@ -6,7 +6,7 @@ A singleton trait for use in WordPress projects
 
 ```PHP
 
-use JohnWatkins0\WPSingleton\Singleton;
+use  ColbyCommunications\WPSingleton\Singleton;
 
 class My_Class {
     use Singleton;

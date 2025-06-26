@@ -2,10 +2,10 @@
 /**
  * A singleton trait for use in WordPress projects.
  *
- * @package johnwatkins0/wp-singleton
+ * @package  ColbyCommunications/wp-singleton
  */
 
-namespace JohnWatkins0\WPSingleton;
+namespace  ColbyCommunications\WPSingleton;
 
 /**
  * Trait Singleton
